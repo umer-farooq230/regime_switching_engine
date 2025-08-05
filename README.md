@@ -40,7 +40,7 @@ This method helps produce more reliable results across different market conditio
     ARIMA periods: 2122 (95.0% of time)
 
 
-
+![Forecast Comparison](newplot(3).png)
 Description:  
 - The **black line** shows predictions from only ARIMA  
 - The **red line** shows predictions from the adaptive model  
